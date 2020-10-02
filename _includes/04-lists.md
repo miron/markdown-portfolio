@@ -12,3 +12,9 @@
 * gh       #browse     
 * nmap     #secure    
 * bpftrace #observe 
+<details>
+  <summary>Title</summary>
+
+  Content here
+
+</details>
