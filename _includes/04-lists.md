@@ -1,3 +1,7 @@
+
+:smile:
+:heart:
+:om:
 * grep     #search  
 * bash     #command  
 * st       #view  
